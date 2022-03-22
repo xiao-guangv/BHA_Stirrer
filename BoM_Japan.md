@@ -5,7 +5,7 @@
 
 |No|個数|品|購入できる場所|価格|参考|
 | ------------: | ------------: | :------------ | :------------ | ------------: | :------------ |
-|1|1|80 mm ファン(PC用)|[Test](http://shop.tsukumo.co.jp/goods/4937925913084/), [Monotaro](https://www.monotaro.com/g/00866020/)|475||
+|1|1|80 mm ファン(PC用)|[Akizuki](http://shop.tsukumo.co.jp/goods/4937925913084/), [Monotaro](https://www.monotaro.com/g/00866020/), [amazon](https://www.amazon.co.jp/-/en/CFY-80S/dp/B000PWQH96/ref=sr_1_5?crid=1Z9BHJBJCO0ER&keywords=cfy&qid=1647913131&sprefix=cfy-80s%2Caps%2C169&sr=8-5)|¥507||
 |2|2|ネオジム磁石|ダイソー|¥100||
 |3|1|ポテンショメータ 100Ω 2W|[RS Online](https://jp.rs-online.com/mobile/p/potentiometers/5225254/)|¥695||
 |4|4|ロッカースイッチ|[RS Online](https://jp.rs-online.com/mobile/p/rocker-switches/7182247/), [Monotaro](https://www.monotaro.com/g/00163769/)|¥107||
